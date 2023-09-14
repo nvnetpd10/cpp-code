@@ -1,0 +1,1 @@
+cd "e:\C++\lab\files\" ; if ($?) { g++ ques4.cpp -o ques4 } ; if ($?) { .\ques4 }cd "e:\C++\lab\files\" ; if ($?) { g++ ques4.cpp -o ques4 } ; if ($?) { .\ques4 }
